@@ -2,9 +2,9 @@ import sys
 from PyQt5 import QtCore, QtGui, QtWidgets
 from QtGen import Ui_MainWindow
 from tqdm import tqdm
-from cv2 import cv2
 from numba import njit
 import numpy as np
+import cv2
 
 
 
