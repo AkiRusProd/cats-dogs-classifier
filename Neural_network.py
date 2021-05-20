@@ -1,9 +1,9 @@
 from tqdm import tqdm
 from numba import njit
-from cv2 import cv2
 import numpy as np
 import os, sys
 import random
+import cv2
 
 epochs = 1
 
