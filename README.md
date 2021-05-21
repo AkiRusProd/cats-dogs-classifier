@@ -8,3 +8,7 @@
 >, распаковать архив "train.zip" в папку "dataset/train", запустить `Neural_network.py` и подождать некоторое время)
 
 `main.py` - обученная сеть с интерфейсом.
+
+## YouTube:
+[![YouTube](http://img.youtube.com/vi/OV4AW4HLLQE/0.jpg)](https://www.youtube.com/watch?v=OV4AW4HLLQE)
+
